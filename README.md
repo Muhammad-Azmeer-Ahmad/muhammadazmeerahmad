@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Azmeer-Ahmad&color=blue" alt="Profile Views" style="height: 25px; vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Learning-SOC%20L2-yellow" alt="Learning" style="height: 25px; vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 25px; vertical-align: middle;" />
+</p>
 <div align="center">
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjh1M3ZxbjMwN2EwdHI2ZG4xb2JucjRpMmNjcmVqZDgzaGFjMHhjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 </div>
