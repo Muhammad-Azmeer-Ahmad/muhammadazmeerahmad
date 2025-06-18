@@ -67,11 +67,10 @@
 <br />
 
 ###
+## 📫 Connect with Me
 
-<h3 align="left">📞   Contact Me :</h3>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/azmeer_.baloch/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:azmeerbaloch29@gmail.com)
 
-###
-
-azmeerbaloch29@gmail.com
 
 
