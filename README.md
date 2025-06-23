@@ -27,11 +27,9 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👨‍💻 About Me
 
-###
-
-<p align="left">I'm an aspiring ethical hacker from world — exploring the world of Cyber Security with a curious mindset and a command-line lifestyle. Passionate about Linux, networking, and building security tools using Python & C.<br>.<br><br>📚 I'm currently learning<br><br>Cyber Security & Ethical Hacking<br><br>Python (Automation | Networking | Tools)<br><br>Nmap & Networking Concepts<br><br>C Language (For low-level stuff)<br><br>Linux (Everyday CLI user)</p>
+I'm Azmeer — a self-taught cybersecurity enthusiast from Pakistan, actively working across both Blue Team and Red Team paths. I focus on hands-on skills using tools like Wireshark, Wazuh, Burp Suite, and Metasploit, along with scripting in Python, C, and Bash. I build practical security projects and aim to break into the industry through real labs, certifications, and open-source contributions.
 
 ###
 
