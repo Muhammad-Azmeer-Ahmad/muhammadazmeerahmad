@@ -46,7 +46,7 @@ I'm Azmeer — a self-taught cybersecurity enthusiast from Pakistan, actively wo
 
 ###
 
-## 📈 GitHub Stats
+## 📈 GitHub's Stats
 
 <div>
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Muhammad-Azmeer-Ahmad&theme=react" width="51%" />
