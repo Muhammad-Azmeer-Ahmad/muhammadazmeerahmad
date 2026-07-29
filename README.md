@@ -50,11 +50,11 @@ I'm Azmeer — a self-taught cybersecurity enthusiast from Pakistan, actively wo
 
 <div>
   <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=Muhammad-Azmeer-Ahmad&theme=react" width="51%" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Azmeer-Ahmad&layout=compact&show_icons=true&theme=react" alt="Muhammad-Azmeer-Ahmad github-readme-stats" width="48%" />
+  
 </div>
 <br />
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Azmeer-Ahmad&layout=compact&theme=react" alt="Muhammad-Azmeer-Ahmad github readme top-langs" width="39%" />
+
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Azmeer-Ahmad&theme=merko" alt="Muhammad-Azmeer-Ahmad github readme activity graph" width="60%" />
 </div>
 
