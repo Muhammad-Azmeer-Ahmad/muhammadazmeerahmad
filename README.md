@@ -20,6 +20,9 @@ Automation orchestration tool for running and scheduling scripted tasks.
 Django Chatbot · python, django
 Chatbot backend with Fernet-encrypted message storage.
 
+[ShadowSniff](https://github.com/Muhammad-Azmeer-Ahmad/ShadowSniff-PacketSniffer) · c++, python
+Lightweight CLI packet sniffer and analyzer for Linux — captures live traffic, logs packets, and includes a Python script for reviewing captured data.
+
 **stats**
 
 <table>
@@ -31,4 +34,4 @@ Chatbot backend with Fernet-encrypted message storage.
 
 ---
 
-[linkedin](https://www.linkedin.com/in/muhammad-azmeer-ahmad-a5a654373/) · [tryhackme](https://tryhackme.com/p/azmeerbaloch29) · [email](mailto:azmeerbaloch29@gmail.com)
+[linkedin](https://www.linkedin.com/in/muhammad-azmeer-ahmad-a5a654373/) · [hackthebox](https://app.hackthebox.com/public/users/2465558) · [tryhackme](https://tryhackme.com/p/azmeerbaloch29) · [email](mailto:azmeerbaloch29@gmail.com)
