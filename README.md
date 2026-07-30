@@ -11,17 +11,11 @@ I do web application penetration testing and build the tooling to support it. Ri
 [Web-Penetration-Testing-Documentation](https://github.com/Muhammad-Azmeer-Ahmad/Web-Penetration-Testing-Documentation) · security research
 Structured write-ups of the HTB Academy Web Pentester path — requests, applications, discovery, exploitation — module by module as I go.
 
-LeadFlow Engine · python, playwright, fastapi
-Backend lead-extraction system built as a freelance portfolio piece: scraping, storage, and an API layer on top.
-
-PyOrchestratorX · python
-Automation orchestration tool for running and scheduling scripted tasks.
-
-Django Chatbot · python, django
-Chatbot backend with Fernet-encrypted message storage.
-
 [ShadowSniff](https://github.com/Muhammad-Azmeer-Ahmad/ShadowSniff-PacketSniffer) · c++, python
 Lightweight CLI packet sniffer and analyzer for Linux — captures live traffic, logs packets, and includes a Python script for reviewing captured data.
+
+[Dolfer Keylogger](https://github.com/Muhammad-Azmeer-Ahmad/dolfer-keylogger) · python
+Educational Windows keyboard logging project built for cybersecurity research and malware analysis training. Demonstrates keystroke capture, configurable reporting, session tracking, and persistence concepts in isolated lab environments. **Intended solely for defensive security education and authorized research.**
 
 **stats**
 
