@@ -1,7 +1,9 @@
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjh1M3ZxbjMwN2EwdHI2ZG4xb2JucjRpMmNjcmVqZDgzaGFjMHhjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" />
 
 ### Muhammad Azmeer Ahmad
-I do web application penetration testing and build the tooling to support it. Right now that's a documented [Web-Penetration-Testing-Documentation](https://github.com/Muhammad-Azmeer-Ahmad/Web-Penetration-Testing-Documentation) — my HTB Academy Web Penetration Tester path, written up module by module. Also freelancing in Python automation and web scraping.
+
+I do web application penetration testing and build the tooling to support it. Right now that's a documented .I'm also building research-oriented projects in quantum computing and quantum cryptograph.
+ [Web-Penetration-Testing-Documentation](https://github.com/Muhammad-Azmeer-Ahmad/Web-Penetration-Testing-Documentation) — my HTB Academy Web Penetration Tester path, written up module by module. Also freelancing in Python automation and web scraping.
 
 📬 **Contact Me**
 
