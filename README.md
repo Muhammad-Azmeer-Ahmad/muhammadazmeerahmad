@@ -2,8 +2,10 @@
 
 ### Muhammad Azmeer Ahmad
 
-I do web application penetration testing and build the tooling to support it. Right now that's a documented .I'm also building research-oriented projects in **quantum computing and quantum cryptograph**.
- [Web-Penetration-Testing-Documentation](https://github.com/Muhammad-Azmeer-Ahmad/Web-Penetration-Testing-Documentation) — my HTB Academy Web Penetration Tester path, written up module by module. Also freelancing in Python automation and web scraping.
+I'm a web application penetration tester, and I build the tooling to support that work. I also run research-oriented projects in **quantum computing and quantum cryptography**.
+
+- 🔐 [Web-Penetration-Testing-Documentation](https://github.com/Muhammad-Azmeer-Ahmad/Web-Penetration-Testing-Documentation) — my HTB Academy Web Penetration Tester path, documented module by module.
+- 🔬 [quantum-research-notes](https://github.com/Muhammad-Azmeer-Ahmad/quantum-research-notes) — paper analyses and implementations in quantum information, cryptography, and networks.
 
 📬 **Contact Me**
 
